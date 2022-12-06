@@ -8,3 +8,5 @@
 [Day 2](notes/Day2.md)
 
 [Day 3](notes/Day3.md)
+
+[Day 4](notes/Day4.md)
