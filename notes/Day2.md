@@ -1,5 +1,7 @@
 # My Notes
 
+This challenge was mainly about logging. 
+
 The task today was all about logs and how to search logs. The importance of a tool like grep should not be overlooked. There are many other tools available, but grep is simple and a good starting point.
 
 Logs are usually found ins /var/logs on linux systems.
