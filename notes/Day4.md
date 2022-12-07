@@ -2,6 +2,15 @@
 
 # My Notes
 
+Lots of great information in the sections below. 
+
+# My Results
+
+## Videos of work
+
+![]()
+
+
 # <center>The Story</center>
 
 ![Header Day 4](../images/day4/day4header.png)
