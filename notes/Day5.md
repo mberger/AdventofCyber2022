@@ -2,7 +2,18 @@
 
 # My Notes 
 
-                       The Story
+This task is to learn how to use hydra and the password that is gathered to connect to a remove vnc server and gather the flag for the challenge.
+
+### My Answers
+VNC screenshot for this task
+![vnc-screenshot](../images/day5/vnc-flag.png)
+
+My Results
+![answers](../images/day5/day5answers.png)
+
+
+
+# <center>The Story</center>
 
 ![Task banner for day 5](../images/day5/day5header.png)
 
