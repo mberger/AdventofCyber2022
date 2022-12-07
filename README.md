@@ -10,3 +10,7 @@
 [Day 3](notes/Day3.md)
 
 [Day 4](notes/Day4.md)
+
+[Day 5](notes/Day5.md)
+
+[Day 6](notes/Day6.md)
