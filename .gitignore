@@ -1,2 +1,2 @@
-#ignore .ds files
-*.DS.
+#ignore .DS_Store
+.DS_Store
