@@ -14,3 +14,5 @@
 [Day 5](notes/Day5.md)
 
 [Day 6](notes/Day6.md)
+
+[Day 7](notes/Day7.md)
